@@ -6,6 +6,8 @@
 
 xsukax AES-256 File & Folder Encryptor & Decryptor is a comprehensive Python application that provides military-grade encryption for both individual files and entire folder structures. Built with a modern graphical user interface (GUI), this tool makes advanced cryptography accessible to users of all technical levels.
 
+![]([screenshot](https://raw.githubusercontent.com/xsukax/xsukax-AES-256-File-Folder-Encryptor-Decryptor/refs/heads/main/screenshot.png))
+
 ### **Core Functionality**
 
 The application offers four distinct operation modes:
