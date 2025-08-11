@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AES-256 File Encryption/Decryption GUI Tool - OPTIMIZED VERSION
+xsukax AES-256 File & Folder Encryptor & Decryptor GUI Tool - OPTIMIZED VERSION
 
 A high-performance GUI application for encrypting and decrypting files using AES-256 encryption.
 Features streaming encryption/decryption for optimal performance with large files.
@@ -102,7 +102,7 @@ class AESFileEncryptorGUI:
     def setup_gui(self):
         """Initialize and setup the GUI components."""
         self.root = Tk()
-        self.root.title("AES-256 File Encryptor - v2.0 Optimized")
+        self.root.title("xsukax AES-256 File & Folder Encryptor & Decryptor")
         self.root.geometry("700x600")
         self.root.resizable(True, True)
         
@@ -120,7 +120,7 @@ class AESFileEncryptorGUI:
         main_frame.columnconfigure(1, weight=1)
         
         # Title
-        title_label = ttk.Label(main_frame, text="🔒 AES-256 File Encryptor v2.0", 
+        title_label = ttk.Label(main_frame, text="🔒 xsukax AES-256 File & Folder Encryptor & Decryptor", 
                                font=('Arial', 16, 'bold'))
         title_label.grid(row=0, column=0, columnspan=3, pady=(0, 20))
         
