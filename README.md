@@ -59,6 +59,9 @@ Traditional encryption tools often suffer from complexity, poor user experience,
 ### **Initial Setup and Interface Overview**
 
 1. **Launch the Application**: Run the Python script to open the main interface
+```
+python xsukax-enc-dec.py
+```
 2. **Interface Elements**:
    - **Target Selection**: Choose between "📄 File" and "📁 Folder" modes
    - **Operation Selection**: Select "🔒 Encrypt" or "🔓 Decrypt"
