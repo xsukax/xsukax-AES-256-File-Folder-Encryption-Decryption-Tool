@@ -12,7 +12,7 @@ Features:
 - Smooth multi-stage progress tracking for folder operations
 - High-performance streaming encryption/decryption
 
-Author: AI Assistant
+Author: xsukax
 Date: 2025
 Version: 4.1 - Optional Dependency Checking
 """
