@@ -47,6 +47,12 @@ The application offers four distinct operation modes:
 - Python 3.7 or higher (3.9+ recommended)
 - Single external dependency: `cryptography`
 
+### **Check Dependencies**
+
+```
+python xsukax-enc-dec.py --check-deps
+```
+
 ### **Quick Install**
 
 ```bash
@@ -195,6 +201,26 @@ python .\xsukax-enc-dec.py -d "My Documents.enc" --folder
 
 # Force overwrite
 python .\xsukax-enc-dec.py -e "Important Files" -f
+```
+Here’s a neat way you can write it in your GitHub README so it’s clear, beginner-friendly, and copy-paste-ready:
+
+---
+
+### 📦 Packaging the Application with PyInstaller
+
+You can bundle this Python application into a single executable file (with all its dependencies) using **[PyInstaller](https://pyinstaller.org/)**.
+
+**1. Install PyInstaller**
+
+```bash
+pip install pyinstaller
+```
+
+**2. Create a single executable file**
+From the project root directory, run:
+
+```bash
+pyinstaller --onefile xsukax-enc-dec.py
 ```
 
 ## **Operation Workflows**
