@@ -1,4 +1,4 @@
-# **xsukax AES-256 File & Folder Encryptor & Decryptor**
+# **xsukax AES-256 File/Folder Encryption/Decryption Tool**
 
 ## **General Description**
 
